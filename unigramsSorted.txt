@@ -1488,7 +1488,7 @@ programs	3545
 Gov	3544
 police	3543
 Prime	3541
-Volapük	3541
+Volap??k	3541
 fuel	3537
 lack	3536
 buildings	3536
@@ -3821,7 +3821,7 @@ improvement	1263
 arguments	1263
 united	1263
 painter	1261
-Māori	1260
+M?�ori	1260
 aspect	1260
 identity	1259
 particles	1258
@@ -5136,7 +5136,6 @@ Cyprus	872
 people's	872
 terrorist	872
 bars	871
-TRUE	871
 competing	871
 differ	871
 planted	870
@@ -5618,7 +5617,7 @@ Antonio	767
 spreading	767
 grammar	767
 terrorists	767
-São	766
+S?�o	766
 inventor	766
 unveiled	766
 companions	766
@@ -6289,7 +6288,7 @@ harbour	662
 cave	661
 Pentagon	661
 asserted	661
-Baden-Württemberg	661
+Baden-W??rttemberg	661
 equality	661
 squares	661
 drilling	661
@@ -6384,7 +6383,7 @@ resource	647
 duke	647
 segment	647
 consistently	647
-Võro	646
+V??ro	646
 CES	646
 Rio	646
 wit	646
@@ -6756,7 +6755,7 @@ fellows	597
 netbook	597
 scarce	596
 dialect	596
-José	596
+Jos??	596
 drag	596
 Thames	596
 Greg	596
@@ -7222,7 +7221,7 @@ theoretical	546
 designer	546
 Aristotle	546
 printer	546
-Pokémon	546
+Pok??mon	546
 AIDS	546
 cleaning	545
 controlling	545
@@ -8059,7 +8058,7 @@ Stock	471
 unfair	471
 OEMs	471
 Montenegro	471
-Zürich	471
+Z??rich	471
 responses	471
 museums	470
 english	470
@@ -9397,7 +9396,7 @@ inappropriate	374
 prizes	373
 analogy	373
 attorneys	373
-Beyoncé	373
+Beyonc??	373
 FOR	373
 Col	373
 samples	373
@@ -9945,7 +9944,7 @@ recycling	343
 caps	343
 peaks	343
 fertility	343
-Düsseldorf	343
+D??sseldorf	343
 vested	343
 mom	343
 standings	343
@@ -10292,7 +10291,7 @@ winters	326
 vein	326
 recognizes	326
 spontaneous	326
-Côte	326
+C??te	326
 geothermal	326
 exclusion	326
 footsteps	326
@@ -11006,7 +11005,7 @@ paved	296
 Puritan	296
 jelly	296
 fro	296
-Tomé	296
+Tom??	296
 Bolivia	296
 crews	296
 chronology	296
@@ -12652,7 +12651,7 @@ cracking	240
 guessing	239
 distressed	239
 cubic	239
-Réunion	239
+R??union	239
 turkey	239
 Ely	239
 dynasties	239
@@ -13233,7 +13232,7 @@ O'Brien	223
 Uruguay	223
 regularity	223
 darkened	223
-Bahá'í	223
+Bah?�'?�	223
 awakening	223
 Reno	223
 prosecuted	223
@@ -13730,7 +13729,7 @@ lateral	211
 bursting	211
 open-source	211
 ranged	211
-Münster	211
+M??nster	211
 owning	210
 lobbyist	210
 mock	210
@@ -14302,7 +14301,7 @@ girlfriend	198
 medication	198
 summon	198
 exalted	198
-Príncipe	198
+Pr?�ncipe	198
 chariot	198
 Yang	198
 battleship	198
@@ -14549,7 +14548,7 @@ Mad	192
 responds	192
 Rex	192
 modeled	192
-département	192
+d??partement	192
 Slavs	192
 greased	192
 clasped	192
@@ -15905,7 +15904,7 @@ rampant	167
 trans	167
 serviceable	167
 Jack's	167
-Büchner	167
+B??chner	167
 afloat	167
 ae	166
 hefty	166
@@ -16324,7 +16323,7 @@ Vicksburg	159
 vaccination	159
 S60	159
 Liz	159
-Lübeck	159
+L??beck	159
 veneration	159
 Crescent	159
 superdelegate	159
@@ -16769,7 +16768,7 @@ Man's	152
 repealed	152
 P1620	152
 pioneered	152
-Neuchâtel	152
+Neuch?�tel	152
 Lionel	152
 Douglass	152
 battered	152
@@ -17172,7 +17171,7 @@ incorporates	146
 Reyes	146
 three-year	146
 experimentation	146
-Reykjavík	146
+Reykjav?�k	146
 incidental	146
 dont	146
 despatched	146
@@ -17406,7 +17405,7 @@ thirsty	143
 Dostoevsky	143
 Podgorica	143
 blushing	143
-Kraków	143
+Krak??w	143
 sovereigns	143
 gratefully	143
 Bethlehem	143
@@ -17673,7 +17672,7 @@ heats	140
 frequented	140
 grievances	140
 plumage	140
-Yucatán	140
+Yucat?�n	140
 autopsy	140
 scientifically	140
 idiom	140
@@ -18811,7 +18810,7 @@ gait	127
 repulsed	127
 antibiotics	127
 conceit	127
-Paraná	127
+Paran?�	127
 Giza	127
 mercantile	127
 Pomfret	127
@@ -19074,7 +19073,7 @@ Cree	124
 fueling	124
 lumps	124
 CTIA	124
-Würzburg	124
+W??rzburg	124
 apprenticeship	124
 Mika	124
 ceilings	124
@@ -19278,7 +19277,7 @@ Cornelius	122
 impeached	122
 Lordship	122
 thigh	122
-Königsberg	122
+K??nigsberg	122
 salient	121
 Plato's	121
 Libertarian	121
@@ -20015,7 +20014,7 @@ opponent's	114
 coercion	114
 Nuevo	114
 Desmond	114
-André	114
+Andr??	114
 discounts	114
 Byers	114
 integers	114
@@ -20436,7 +20435,7 @@ recreate	110
 encoded	110
 Madoff	110
 paperback	110
-Graubünden	110
+Graub??nden	110
 horribly	110
 parked	110
 turnover	110
@@ -20625,7 +20624,7 @@ Zaire	109
 Burn	109
 slabs	109
 delegated	109
-León	109
+Le??n	109
 Blunt	109
 entangled	109
 Tchaikovsky	109
@@ -20782,7 +20781,7 @@ courtroom	108
 CW	107
 idiots	107
 dogmas	107
-Dáil	107
+D?�il	107
 marrow	107
 mammoth	107
 snowfall	107
@@ -20827,7 +20826,7 @@ fortresses	107
 res	107
 follies	107
 needn't	107
-Gdańsk	107
+Gda?�sk	107
 sly	107
 eels	107
 perchance	107
@@ -22094,7 +22093,7 @@ Grecian	97
 lauded	97
 Homeric	97
 feeder	97
-Éireann	97
+?�ireann	97
 tricked	97
 Portia	97
 lounge	97
@@ -22392,7 +22391,7 @@ bustling	95
 cuneiform	95
 twofold	95
 diploma	95
-Lomé	95
+Lom??	95
 dreamt	95
 tease	95
 CNBC	95
@@ -22620,9 +22619,9 @@ smoother	93
 mite	93
 unprofitable	93
 unveils	93
-Bogotá	93
+Bogot?�	93
 hygienic	93
-Åland	93
+?�land	93
 Ghent	93
 Malaysian	93
 silken	93
@@ -22861,7 +22860,7 @@ booths	92
 classrooms	92
 McCaskill	92
 sacrament	92
-Yaoundé	92
+Yaound??	92
 disco	92
 Arezzo	92
 literate	92
@@ -25088,7 +25087,7 @@ vitriol	78
 tidbits	78
 toiling	78
 miseries	78
-Rhône	78
+Rh??ne	78
 vantage	78
 Hind	78
 Cavite	78
@@ -25288,7 +25287,7 @@ troll	77
 functionalities	77
 spiny	77
 hurling	77
-Göttingen	77
+G??ttingen	77
 Valhalla	77
 gentler	77
 Roach	77
@@ -25954,7 +25953,7 @@ Boca	74
 principalities	74
 Southey	74
 thirty-three	74
-d'état	74
+d'??tat	74
 connectors	74
 plateaus	74
 inferiority	74
@@ -25969,7 +25968,7 @@ tinfoil	74
 confederate	74
 electromagnetism	74
 outflow	74
-Sánchez	74
+S?�nchez	74
 reeling	74
 Kissinger	74
 Elena	74
@@ -27114,7 +27113,7 @@ gospels	68
 Monahan	68
 wail	68
 self-sufficient	68
-Ragnarök	68
+Ragnar??k	68
 inalienable	68
 Volvo	68
 enlighten	68
@@ -27432,7 +27431,7 @@ prolongation	67
 unload	67
 connective	67
 celibacy	67
-Tübingen	67
+T??bingen	67
 allay	67
 Terra	67
 slung	67
@@ -28814,7 +28813,7 @@ mustered	61
 coherence	61
 Adlai	61
 self-proclaimed	61
-Paraíba	61
+Para?�ba	61
 Thant	61
 pent-up	61
 perpetuity	61
@@ -28864,7 +28863,7 @@ thaw	61
 unintentionally	61
 tapioca	61
 Havilland	61
-Fáil	61
+F?�il	61
 Stoic	61
 Lufthansa	61
 motioned	61
@@ -29270,7 +29269,7 @@ Shamma	60
 resonate	60
 cellist	60
 logarithmic	60
-Brasília	60
+Bras?�lia	60
 crevice	60
 rustle	60
 flutes	60
@@ -29396,7 +29395,7 @@ Konfabulator	59
 thrifty	59
 Zapotec	59
 dips	59
-née	59
+n??e	59
 inundated	59
 harass	59
 sec	59
@@ -30159,7 +30158,7 @@ mayonnaise	56
 misspelled	56
 cytoplasm	56
 lances	56
-Kölsch	56
+K??lsch	56
 Herne	56
 affinities	56
 grasshoppers	56
@@ -30210,7 +30209,7 @@ Esperanza	56
 Saab	56
 reproduces	56
 fiftieth	56
-João	56
+Jo?�o	56
 Dew	56
 Charlotte's	56
 uncredited	56
@@ -31255,7 +31254,7 @@ carbohydrate	53
 flavoured	53
 unconcerned	53
 ensues	53
-Potosí	53
+Potos?�	53
 blasphemy	53
 lunches	53
 Knight's	53
@@ -31424,7 +31423,7 @@ pretender	52
 Nur	52
 Orr	52
 crumb	52
-Goiás	52
+Goi?�s	52
 Garvin	52
 lingers	52
 freeways	52
@@ -31614,7 +31613,7 @@ effusion	52
 Bosworth	52
 airplay	52
 Nearctic	52
-Orléans	52
+Orl??ans	52
 Gaunt	52
 Lichtenberg	52
 WebEx	52
@@ -31665,7 +31664,7 @@ Antietam	52
 Carleton	52
 Rockwell	52
 Aymara	52
-à	51
+?�	51
 vale	51
 undergrowth	51
 Antrim	51
@@ -32048,7 +32047,7 @@ Jessamine	50
 decomposing	50
 relieves	50
 animistic	50
-Piauí	50
+Piau?�	50
 frays	50
 knapsack	50
 morose	50
@@ -32307,7 +32306,7 @@ showcased	50
 conveniences	50
 racer	50
 Saipan	50
-Pará	50
+Par?�	50
 Solingen	50
 pacify	50
 mediocrity	50
@@ -32450,7 +32449,7 @@ ketchup	49
 naturalization	49
 burnished	49
 evangelists	49
-Lévi-Strauss	49
+L??vi-Strauss	49
 lightening	49
 Python's	49
 medley	49
@@ -32555,7 +32554,7 @@ tiring	49
 junkie	49
 lamentable	49
 Karol	49
-Fürth	49
+F??rth	49
 syringe	49
 Petrograd	49
 festivity	49
@@ -33238,7 +33237,7 @@ cantata	47
 tanker	47
 interoperate	47
 Snowball	47
-Asunción	47
+Asunci??n	47
 Maccabees	47
 sneezing	47
 holocaust	47
@@ -33419,7 +33418,7 @@ dignities	46
 brouhaha	46
 Nellie	46
 bobbing	46
-Maranhão	46
+Maranh?�o	46
 epact	46
 motorized	46
 extravagances	46
@@ -33708,7 +33707,7 @@ Cinnamon	46
 topographical	46
 tugged	46
 choppy	46
-Schrödinger	46
+Schr??dinger	46
 Bahawalpur	46
 Montagu	46
 quarto	46
@@ -34086,7 +34085,7 @@ Neva	45
 Sixtus	45
 earmarked	45
 Nihon	45
-Niño	45
+Ni??o	45
 whist	45
 salivary	45
 sputtering	45
@@ -34291,7 +34290,7 @@ MPEG-4	44
 decadence	44
 ESL	44
 ill-advised	44
-Amapá	44
+Amap?�	44
 Macaulay's	44
 Ogg	44
 Skelton	44
@@ -34360,7 +34359,7 @@ monolithic	44
 scheming	44
 Lizzie	44
 Massachusetts-based	44
-Priština	44
+Pri?�tina	44
 plaything	44
 Kaffir	44
 Tract	44
@@ -34579,7 +34578,7 @@ Tallahassee	44
 toothpaste	44
 Rutgers	44
 erupting	44
-Rondônia	44
+Rond??nia	44
 hedging	44
 Gage	44
 textures	44
@@ -34798,7 +34797,7 @@ moored	43
 spectroscopy	43
 yeasts	43
 existentialist	43
-Ceará	43
+Cear?�	43
 Coney	43
 Tisa	43
 co-star	43
@@ -35568,7 +35567,7 @@ deacons	41
 admiringly	41
 Hodgson	41
 Pitcher	41
-Führer	41
+F??hrer	41
 frills	41
 brain's	41
 effaced	41
@@ -35579,7 +35578,7 @@ Bigfoot	41
 mercilessly	41
 plowing	41
 elongation	41
-château	41
+ch?�teau	41
 Weber's	41
 sprig	41
 polytheism	41
@@ -35866,7 +35865,7 @@ sawed	41
 bowled	41
 riddled	41
 Lublin	41
-façade	41
+fa?�ade	41
 neuroscience	41
 sprouting	41
 netted	41
@@ -36255,7 +36254,7 @@ confidences	40
 crappy	40
 Faustina	40
 homewards	40
-Rhône-Alpes	40
+Rh??ne-Alpes	40
 twain	40
 Wheeling	40
 skit	40
@@ -37907,7 +37906,7 @@ store's	36
 infuse	36
 semitone	36
 lander	36
-Poincaré	36
+Poincar??	36
 Zaragoza	36
 crowed	36
 Gatling	36
@@ -37938,7 +37937,7 @@ tracer	36
 paddled	36
 engender	36
 Zermatt	36
-Liège	36
+Li?�ge	36
 landlines	36
 Vercingetorix	36
 mutter	36
@@ -38180,7 +38179,7 @@ crusades	36
 private-equity	36
 Kellogg	36
 Shylock	36
-Québec	36
+Qu??bec	36
 Ordovician	36
 waltzes	36
 encyclopaedia	36
@@ -41572,7 +41571,7 @@ vesicle	30
 Samarra	30
 neurotransmitter	30
 surcharge	30
-Père	30
+P?�re	30
 life-giving	30
 Woodbridge	30
 spheroidal	30
@@ -42007,7 +42006,7 @@ passer-by	29
 lusting	29
 Mathew	29
 Whittington	29
-Guaraní	29
+Guaran?�	29
 Discordianism	29
 Monterrey	29
 apparitions	29
@@ -42908,7 +42907,7 @@ counterbalanced	28
 swindling	28
 Loring's	28
 pee	28
-Eyjafjallajökull	28
+Eyjafjallaj??kull	28
 entwined	28
 recondite	28
 Slade	28
@@ -44874,7 +44873,7 @@ Inc's	26
 Olin	26
 phenotype	26
 sardonic	26
-Möbius	26
+M??bius	26
 essayists	26
 reinvigorate	26
 degeneracy	26
@@ -45170,7 +45169,7 @@ ADM	25
 fractals	25
 wonky	25
 mutable	25
-Malmö	25
+Malm??	25
 Eisner	25
 psychotropic	25
 procurable	25
@@ -45232,7 +45231,7 @@ nosedive	25
 Stratford-on-Avon	25
 benzine	25
 Felis	25
-Renée	25
+Ren??e	25
 KSR	25
 diagnostics	25
 Daryl	25
@@ -45268,7 +45267,7 @@ Stoneman	25
 Dominions	25
 Lynda	25
 lugging	25
-père	25
+p?�re	25
 covetous	25
 monogamy	25
 fluctuates	25
@@ -46445,7 +46444,7 @@ edification	24
 Abbotsford	24
 caribou	24
 flecked	24
-Sebastián	24
+Sebasti?�n	24
 Rodman	24
 blimps	24
 Aboukir	24
@@ -46651,7 +46650,7 @@ Featherstone	24
 middleman	24
 Basques	24
 Srinagar	24
-Timişoara	24
+Timi?�oara	24
 radon	24
 construe	24
 Alexandrine	24
@@ -46865,7 +46864,7 @@ humiliate	23
 Wilfred	23
 unknowable	23
 peruse	23
-café	23
+caf??	23
 omelette	23
 outspread	23
 nisi	23
@@ -47043,7 +47042,7 @@ Battersea	23
 pessimist	23
 appraised	23
 Colby	23
-Île-de-France	23
+?�le-de-France	23
 dodo	23
 ilk	23
 organism's	23
@@ -47165,7 +47164,7 @@ Jagger	23
 hypothermia	23
 exhaustively	23
 boars	23
-Forlì-Cesena	23
+Forl?�-Cesena	23
 toying	23
 Scylla	23
 Fraser's	23
@@ -47213,7 +47212,7 @@ infliction	23
 Cardin	23
 impressionable	23
 Cerf	23
-Götterdämmerung	23
+G??tterd?�mmerung	23
 Maddalena	23
 tight-fitting	23
 Rumanians	23
@@ -47599,7 +47598,7 @@ eschewing	23
 Chabot	23
 Schroeder	23
 rants	23
-País	23
+Pa?�s	23
 Japans	23
 hurries	23
 landmines	23
@@ -48230,7 +48229,7 @@ Solanaceae	22
 Blavatsky	22
 cubical	22
 convalescent	22
-Jèrriais	22
+J?�rriais	22
 impels	22
 neumes	22
 Tarquin	22
@@ -49319,7 +49318,7 @@ segregationist	21
 inhumane	21
 Benjamin's	21
 Weelkes	21
-Áed	21
+?�ed	21
 Appleseed	21
 hadst	21
 Heilongjiang	21
@@ -50183,7 +50182,7 @@ autonomic	20
 gratings	20
 text-to-speech	20
 gendarmes	20
-Tánaiste	20
+T?�naiste	20
 customizations	20
 genocidal	20
 condiments	20
@@ -50387,7 +50386,7 @@ dauphin	20
 Roswell	20
 phosphoric	20
 impel	20
-Franche-Comté	20
+Franche-Comt??	20
 aphids	20
 ELISA	20
 four-in-hand	20
@@ -50956,7 +50955,7 @@ claps	19
 Perrin	19
 ambushes	19
 complies	19
-Espírito	19
+Esp?�rito	19
 burg	19
 burl	19
 dabble	19
@@ -51001,7 +51000,7 @@ domineering	19
 Gordo	19
 deprecatingly	19
 longbow	19
-Curaçao	19
+Cura?�ao	19
 Chautauqua	19
 Senegambia	19
 Hui	19
@@ -51071,7 +51070,7 @@ SVGA	19
 MIN	19
 Luz	19
 temperately	19
-fiancée	19
+fianc??e	19
 Granny	19
 absurdum	19
 escalators	19
@@ -51170,7 +51169,6 @@ rose-bush	19
 Alkmaar	19
 Mujib's	19
 lolling	19
-FALSE	19
 Everly	19
 Aladdin's	19
 Newburgh	19
@@ -52235,7 +52233,7 @@ sepia	18
 Englanders	18
 bunny	18
 Schaumburg-Lippe	18
-Midi-Pyrénées	18
+Midi-Pyr??n??es	18
 rainstorm	18
 isotropic	18
 BLM	18
@@ -53033,7 +53031,7 @@ Terrance	18
 reenforced	18
 trammels	18
 pitilessly	18
-Galápagos	18
+Gal?�pagos	18
 Whewell	18
 unknowing	18
 Gwyneth	18
@@ -53602,7 +53600,7 @@ anachronistic	17
 annealing	17
 Masonry	17
 tarp	17
-Nouméa	17
+Noum??a	17
 MEP	17
 Procopius	17
 MLS	17
@@ -55251,7 +55249,7 @@ loosing	16
 Renaud	16
 monkish	16
 USMC	16
-Gödel's	16
+G??del's	16
 Ziegfeld	16
 housekeeper's	16
 catcher's	16
@@ -55309,7 +55307,7 @@ Lennie	16
 haltingly	16
 waistband	16
 eucalypts	16
-naïve	16
+na?�ve	16
 Hutchings	16
 dropouts	16
 outsized	16
@@ -55533,7 +55531,7 @@ splicing	16
 evasions	16
 Steppe	16
 Roxanne	16
-protégé	16
+prot??g??	16
 cheeky	16
 Donny	16
 Rayleigh	16
@@ -55832,7 +55830,7 @@ Hashemite	16
 Bornholm	16
 pensively	16
 Mumbai's	16
-Cézanne	16
+C??zanne	16
 full-year	16
 multidisciplinary	16
 schismatic	16
@@ -55960,7 +55958,7 @@ Dickinson's	16
 mirthful	16
 archaeal	16
 invisibility	16
-Schrödinger's	16
+Schr??dinger's	16
 off-color	16
 belatedly	16
 NORAD	16
@@ -56024,7 +56022,7 @@ JO	15
 Ju	15
 Hoye	15
 V6	15
-Lü	15
+L??	15
 RT	15
 Bismarck's	15
 unconcern	15
@@ -56299,7 +56297,7 @@ Amend	15
 overshoes	15
 side's	15
 Missoula	15
-détente	15
+d??tente	15
 seedless	15
 meandered	15
 Salinger	15
@@ -56477,7 +56475,7 @@ cavalrymen	15
 worsens	15
 photojournalist	15
 Pym	15
-Provençal	15
+Proven?�al	15
 psychoanalytic	15
 RIP	15
 inductors	15
@@ -56600,7 +56598,7 @@ Spaulding	15
 cameramen	15
 debasing	15
 endows	15
-Zoë	15
+Zo?�	15
 Pelton	15
 conglomeration	15
 Dioscuri	15
@@ -56805,7 +56803,7 @@ troubleshoot	15
 Daoism	15
 monasticism	15
 McKnight	15
-Maceió	15
+Macei??	15
 engine's	15
 sideshow	15
 Saeed	15
@@ -56950,7 +56948,7 @@ Iquique	15
 cooed	15
 Baha'i	15
 vocalization	15
-Provence-Alpes-Côte	15
+Provence-Alpes-C??te	15
 headlamps	15
 contravene	15
 pastorals	15
@@ -57201,7 +57199,7 @@ Karaite	15
 untaught	15
 annotation	15
 multitask	15
-Niña	15
+Ni??a	15
 Rubaiyat	15
 unschooled	15
 orig	15
@@ -57259,7 +57257,7 @@ controverted	15
 Croatians	15
 barrages	15
 Phaedrus	15
-Noël	15
+No?�l	15
 polygraph	15
 four-minute	15
 numbing	15
@@ -57372,7 +57370,7 @@ Southgate	15
 leaflet	15
 unsubsidized	15
 inset	15
-première	15
+premi?�re	15
 chevet	15
 brominated	15
 gonorrhea	15
@@ -57452,7 +57450,7 @@ vocations	15
 Drexler	15
 hovels	15
 thrombosis	15
-clichés	15
+clich??s	15
 waiving	15
 Kiwis	15
 striated	15
@@ -57474,7 +57472,7 @@ Liebknecht	15
 underwriter	15
 Jhansi	15
 Osco	15
-Siddhārtha	15
+Siddh?�rtha	15
 pell-mell	15
 discards	15
 Payne's	15
@@ -58517,7 +58515,7 @@ electrolytic	14
 firecracker	14
 tableaux	14
 Robinia	14
-Vitré	14
+Vitr??	14
 Yucatec	14
 ECIS	14
 methionine	14
@@ -58784,7 +58782,7 @@ hyperspace	14
 repellant	14
 intonations	14
 airspeed	14
-Popocatépetl	14
+Popocat??petl	14
 trumping	14
 Tischendorf	14
 incendiaries	14
@@ -58934,7 +58932,7 @@ Fahy	14
 GCOS	14
 parsons	14
 Ahwahnee	14
-Quiché	14
+Quich??	14
 churlish	14
 Aloysius	14
 backtracked	14
@@ -59100,7 +59098,7 @@ commercialism	14
 waylaid	14
 colonizers	14
 trustful	14
-majesté	14
+majest??	14
 unstained	14
 semper	14
 willowy	14
@@ -59112,7 +59110,7 @@ disarranged	14
 lumberjack	14
 grafts	14
 interconnecting	14
-Vendée	14
+Vend??e	14
 Schuman	14
 misinterpret	14
 Wexler	14
@@ -59149,7 +59147,7 @@ expels	14
 haws	14
 Schwarzkopf	14
 pampas	14
-lèse	14
+l?�se	14
 Toombs	14
 hist	14
 dissimilarity	14
@@ -60772,7 +60770,7 @@ penalizing	13
 ARMM	13
 Texarkana	13
 irremediable	13
-Finistère	13
+Finist?�re	13
 Koontz	13
 unenlightened	13
 liturgies	13
@@ -60803,7 +60801,7 @@ Pittsburgh's	13
 warbling	13
 Lydians	13
 puritan	13
-Belém	13
+Bel??m	13
 wittily	13
 jocund	13
 omega-3	13
@@ -61035,7 +61033,7 @@ Legazpi	13
 Pappas	13
 Eisenhower's	13
 Goss	13
-Florianópolis	13
+Florian??polis	13
 pro-American	13
 predispose	13
 modifiable	13
@@ -61422,8 +61420,8 @@ denizen	12
 scamper	12
 bleachers	12
 endorser	12
-Jyväskylä	12
-Candomblé	12
+Jyv?�skyl?�	12
+Candombl??	12
 declension	12
 haunch	12
 Bouchard	12
@@ -61504,7 +61502,7 @@ nano-	12
 Harpies	12
 Buerger	12
 hoarseness	12
-Besançon	12
+Besan?�on	12
 incubating	12
 consequentialism	12
 castile	12
@@ -61756,7 +61754,7 @@ AUC	12
 noes	12
 AWE	12
 Huesca	12
-émigré	12
+??migr??	12
 AFA	12
 Antiguan	12
 AIS	12
@@ -61917,7 +61915,7 @@ RCC	12
 Eugene's	12
 RDS	12
 eschatology	12
-RTÉ	12
+RT?�	12
 grebes	12
 one-celled	12
 RADIO	12
@@ -62230,7 +62228,7 @@ solvable	12
 Amphiaraus	12
 expedition's	12
 spotters	12
-siècle	12
+si?�cle	12
 Mausers	12
 nib	12
 massif	12
@@ -62357,7 +62355,7 @@ seasonality	12
 shoemakers	12
 scribbles	12
 snake-like	12
-Condé	12
+Cond??	12
 Vaucheria	12
 Dorion	12
 Roper	12
@@ -62606,7 +62604,7 @@ Sango's	12
 CRTs	12
 Irish-born	12
 Blue's	12
-Malé	12
+Mal??	12
 viewfinder	12
 chutzpah	12
 lakeside	12
@@ -63046,7 +63044,7 @@ serialised	12
 underwood	12
 asap	12
 archesporium	12
-Goiânia	12
+Goi?�nia	12
 auks	12
 knowable	12
 Corunna	12
@@ -64528,7 +64526,7 @@ snips	11
 Batchelor	11
 Cushitic	11
 slacks	11
-début	11
+d??but	11
 blood-letting	11
 txt	11
 dumb-waiter	11
@@ -65114,7 +65112,7 @@ Plume	11
 Memel	11
 trioxide	11
 Walachia	11
-Meänkieli	11
+Me?�nkieli	11
 costlier	11
 Intercourse	11
 rock-and-roll	11
@@ -65542,7 +65540,7 @@ straggled	11
 neoclassicism	11
 blazon	11
 Kshatriya	11
-régime	11
+r??gime	11
 pons	11
 half-grown	11
 tormentor	11
@@ -65955,7 +65953,7 @@ Zora	10
 arbitrators	10
 cyst	10
 admiral's	10
-Pietà	10
+Piet?�	10
 hotheaded	10
 underlay	10
 Walloons	10
@@ -67247,7 +67245,7 @@ Wonder's	10
 much-discussed	10
 swimsuits	10
 careware	10
-Bokmål	10
+Bokm?�l	10
 Warrick	10
 positivists	10
 Ambrosius	10
@@ -67503,7 +67501,7 @@ Helmer	10
 knowe	10
 venders	10
 downing	10
-Übermensch	10
+?�bermensch	10
 Doggett	10
 belay	10
 profiteers	10
@@ -67971,7 +67969,7 @@ Neisseria	10
 gutting	10
 Nevins	10
 imbibing	10
-vis-à-vis	10
+vis-?�-vis	10
 bonhomie	10
 hackles	10
 wardens	10
@@ -68829,7 +68827,7 @@ unfurl	9
 benefactress	9
 Rudin	9
 vgrep	9
-élite	9
+??lite	9
 outgassing	9
 centurion	9
 Sega's	9
@@ -69883,7 +69881,7 @@ old-established	9
 pulping	9
 intermedia	9
 motivic	9
-Macapá	9
+Macap?�	9
 craps	9
 Kleist	9
 vacuole	9
@@ -70289,7 +70287,7 @@ master-at-arms	9
 chicane	9
 Ma's	9
 endears	9
-Mérida	9
+M??rida	9
 twelve-hour	9
 Perkin's	9
 Arara	9
@@ -71128,7 +71126,7 @@ dismember	9
 Jedburgh	9
 desegregated	9
 revolutionise	9
-über	9
+??ber	9
 begrudgingly	9
 day-by-day	9
 latitudinal	9
@@ -71208,7 +71206,7 @@ smugly	9
 Agneta	9
 Agnese	9
 Orford	9
-Vitória	9
+Vit??ria	9
 Thurstan	9
 Tintern	9
 immunizations	9
@@ -71407,7 +71405,7 @@ PF	8
 HO	8
 subjoin	8
 Legions	8
-Fé	8
+F??	8
 Kb	8
 subroutine	8
 VL	8
@@ -71738,7 +71736,7 @@ Dakotans	8
 proofreading	8
 Picus	8
 nematode	8
-fiancé	8
+fianc??	8
 opprobrious	8
 hallow	8
 postpositions	8
@@ -73558,7 +73556,7 @@ Zanthoxylum	8
 baptisteries	8
 Vili	8
 rehearing	8
-Mahé	8
+Mah??	8
 marquessate	8
 Bollinger	8
 visors	8
@@ -74074,7 +74072,7 @@ curbside	8
 forgers	8
 afer	8
 altimeter	8
-risqué	8
+risqu??	8
 Rabia	8
 fusions	8
 copper-plate	8
@@ -74619,7 +74617,7 @@ Pentheus	8
 legations	8
 trapezoid	8
 uncombined	8
-Cuiabá	8
+Cuiab?�	8
 proposal's	8
 Namen	8
 Whitson	8
@@ -75075,7 +75073,7 @@ leather-bound	7
 acculturation	7
 stiffest	7
 Mattias	7
-Pärnu	7
+P?�rnu	7
 navvy	7
 dissents	7
 escapees	7
@@ -75481,7 +75479,7 @@ IYFEG	7
 casa	7
 Dempster	7
 sitename	7
-Alfvén	7
+Alfv??n	7
 classifiers	7
 tagliatelle	7
 Agustin	7
@@ -75734,7 +75732,7 @@ erat	7
 launchpad	7
 metallurgist	7
 footman's	7
-Bön	7
+B??n	7
 firebox	7
 GSI	7
 Hobson's	7
@@ -76620,7 +76618,7 @@ Imbler	7
 decreeing	7
 Deighton	7
 well-disposed	7
-Três	7
+Tr?�s	7
 Karaites	7
 Malton	7
 Reitman	7
@@ -77520,7 +77518,7 @@ Ratcliffe	7
 inauthentic	7
 Moise	7
 eschews	7
-Cuauhtémoc	7
+Cuauht??moc	7
 nimbus	7
 roil	7
 well-washed	7
@@ -78421,7 +78419,7 @@ incapacitate	7
 optimised	7
 Cesena	7
 leucorrhoea	7
-Durrës	7
+Durr?�s	7
 porte-cochere	7
 Celastrus	7
 generall	7
@@ -78734,7 +78732,6 @@ Martinican	7
 hemlocks	7
 communed	7
 Zethus	7
-#NAME?	7
 Naima	7
 stumpage	7
 Cary's	7
@@ -81416,7 +81413,7 @@ paralyses	6
 Conestogas	6
 proffering	6
 Catholicity	6
-vicuña	6
+vicu??a	6
 Copan	6
 Millerite	6
 reveres	6
@@ -84533,7 +84530,7 @@ Florina	5
 Kewaunee	5
 leukaemia	5
 pickerel	5
-châteaux	5
+ch?�teaux	5
 anathematized	5
 Gutz	5
 Tashkend	5
@@ -84937,7 +84934,7 @@ number's	5
 Tadmor	5
 justice's	5
 Bauru	5
-Baumé	5
+Baum??	5
 convoyed	5
 Inia	5
 houseboats	5
@@ -85356,7 +85353,7 @@ unpronounceable	5
 chucking	5
 cybercrud	5
 eye-opener	5
-Monégasque	5
+Mon??gasque	5
 muggles	5
 cross-cut	5
 rearranges	5
@@ -85915,7 +85912,7 @@ WLL	5
 crinolines	5
 WNP	5
 footloose	5
-Québécois	5
+Qu??b??cois	5
 harmonograph	5
 unintuitive	5
 noggin	5
@@ -86801,7 +86798,7 @@ McAdoo	5
 harems	5
 Bilski	5
 fat-free	5
-papier-mâché	5
+papier-m?�ch??	5
 Progreso	5
 wae	5
 off-guard	5
@@ -86862,7 +86859,7 @@ punster	5
 tim	5
 Keli	5
 Keil	5
-Béziers	5
+B??ziers	5
 emboldens	5
 Keir	5
 Kemi	5
@@ -87250,7 +87247,7 @@ Gentryville	5
 PARADE	5
 Firmin	5
 double-bass	5
-Mâcon	5
+M?�con	5
 flagellates	5
 Johanna's	5
 misreporting	5
@@ -87610,11 +87607,11 @@ depressant	5
 Riverton	5
 CLEO	5
 deliverers	5
-colón	5
+col??n	5
 Kurth	5
 maracas	5
 race-horse	5
-communiqué	5
+communiqu??	5
 Lupe	5
 knowledges	5
 Abaco	5
@@ -87689,7 +87686,7 @@ inflexion	5
 roly-poly	5
 tressure	5
 Bove	5
-mêlée	5
+m?�l??e	5
 Tench	5
 Snowdonia	5
 one-dollar	5
@@ -87789,7 +87786,7 @@ absorbance	5
 trackway	5
 Bernadine's	5
 net's	5
-Époque	5
+?�poque	5
 Naylor	5
 Timothy's	5
 extrapolating	5
@@ -87987,7 +87984,7 @@ Corina	5
 pegbox	5
 magnetizer	5
 Polygonaceae	5
-Umeå	5
+Ume?�	5
 barbels	5
 Dotson	5
 Encampment	5
@@ -88309,7 +88306,7 @@ collegian	5
 jamb	5
 Sixes	5
 Theotokos	5
-Öland	5
+?�land	5
 kluged	5
 mazurkas	5
 disarms	5
@@ -89280,7 +89277,7 @@ proles	5
 interlingua	5
 unhidden	5
 acuter	5
-opéra	5
+op??ra	5
 rewarm	5
 poesy	5
 rejoinders	5
@@ -89536,7 +89533,7 @@ bobstay	5
 kickoffs	5
 beryls	5
 Visayans	5
-cliché	5
+clich??	5
 warrantable	5
 Mathilda	5
 Thujopsis	5
@@ -89558,7 +89555,7 @@ phosphatic	5
 profiteer	5
 sweatshirts	5
 rudderless	5
-clichéd	5
+clich??d	5
 Andrias	5
 Amaziah	5
 jelly-fish	5
@@ -90177,7 +90174,7 @@ vc	4
 Kwakiutl	4
 tz	4
 tg	4
-Minié	4
+Mini??	4
 tc	4
 burning-glass	4
 sb	4
@@ -90385,7 +90382,7 @@ stealer	4
 spight	4
 tarpaulins	4
 multiplicand	4
-Lévy	4
+L??vy	4
 taluk	4
 familiarities	4
 Cavell	4
@@ -90576,7 +90573,7 @@ outlasts	4
 microspore	4
 Crichton's	4
 flagons	4
-entrepôt	4
+entrep??t	4
 Braidwood	4
 teratogens	4
 unsatisfactorily	4
@@ -90762,7 +90759,7 @@ posteriorly	4
 not-living	4
 Florry	4
 unfreezing	4
-Adélie	4
+Ad??lie	4
 jacuzzi	4
 Longmont	4
 maison	4
@@ -91165,7 +91162,7 @@ METAL	4
 enormousness	4
 mandibular	4
 Feinstein's	4
-protegé	4
+proteg??	4
 colonisers	4
 goggle	4
 candelabrum	4
@@ -91428,7 +91425,7 @@ hermetic	4
 cDNA	4
 Batak	4
 clunk	4
-jökulhlaup	4
+j??kulhlaup	4
 baru	4
 tieless	4
 Andra	4
@@ -91684,7 +91681,7 @@ unguessed	4
 Louisvillians	4
 Jughead	4
 dynamiting	4
-Örebro	4
+?�rebro	4
 neutralisation	4
 first-line	4
 prodigally	4
@@ -91842,7 +91839,7 @@ monogamic	4
 ASE	4
 ASM	4
 Malda	4
-cloisonné	4
+cloisonn??	4
 hones	4
 muscovite	4
 stockier	4
@@ -92042,7 +92039,7 @@ Giusto	4
 estoppel	4
 GRB	4
 GPO	4
-Mýrdalsjökull	4
+M??rdalsj??kull	4
 quechua	4
 dogsled	4
 IOP	4
@@ -92552,7 +92549,7 @@ MLO	4
 Lir	4
 MKS	4
 Lud	4
-d'être	4
+d'?�tre	4
 souks	4
 matter-of-course	4
 trumpet-shaped	4
@@ -92684,7 +92681,7 @@ excentric	4
 faith's	4
 overreact	4
 lantern's	4
-passé	4
+pass??	4
 snatchers	4
 unfledged	4
 scooting	4
@@ -93237,7 +93234,7 @@ penologist	4
 franklin	4
 new-model	4
 Eproboscidea	4
-maître	4
+ma?�tre	4
 tweeters	4
 Samarqand	4
 Elwell	4
@@ -93497,7 +93494,7 @@ Cobus	4
 supervened	4
 waggish	4
 Korman	4
-caffè	4
+caff?�	4
 messieurs	4
 Mobilian	4
 romps	4
@@ -93628,7 +93625,7 @@ Waterville	4
 Freytag	4
 enciphered	4
 green-eyed	4
-Chambéry	4
+Chamb??ry	4
 Ionesco	4
 therewithal	4
 Aldridge	4
@@ -94014,7 +94011,7 @@ golden-brown	4
 unguents	4
 memorandums	4
 tidies	4
-cafetière	4
+cafeti?�re	4
 defecating	4
 finny	4
 half-forgotten	4
@@ -94555,7 +94552,7 @@ illiterates	4
 franchised	4
 relaxant	4
 refrigerants	4
-idée	4
+id??e	4
 sizars	4
 videotaping	4
 Whitehead's	4
@@ -94660,7 +94657,7 @@ reconciliations	4
 purvey	4
 misfires	4
 Cleone	4
-exposé	4
+expos??	4
 Chon	4
 twenty-dollar	4
 pertussis	4
@@ -94908,7 +94905,7 @@ peepers	4
 unpicked	4
 compartmentalized	4
 infelicity	4
-Gewürztraminer	4
+Gew??rztraminer	4
 retagging	4
 razz	4
 non-Indian	4
@@ -95289,7 +95286,7 @@ overbalancing	4
 Cranwell	4
 voyeurs	4
 Anderlecht	4
-Réaumur	4
+R??aumur	4
 shoeshine	4
 bicuspid	4
 miliaria	4
@@ -95302,7 +95299,7 @@ survivalist	4
 hallo	4
 phthisic	4
 racetracks	4
-fête	4
+f?�te	4
 quick-moving	4
 standard-sized	4
 rhapsody	4
@@ -97571,7 +97568,7 @@ haggled	4
 insipidity	4
 instated	4
 Struthers	4
-doppelgänger	4
+doppelg?�nger	4
 russia	4
 Echinocactus	4
 brashest	4
@@ -97674,7 +97671,7 @@ disintegrative	4
 garroter	4
 odoriferous	4
 Spender	4
-Kármán	4
+K?�rm?�n	4
 alliterating	4
 felix	4
 Keillor	4
@@ -97915,7 +97912,7 @@ tentacled	3
 Aepyceros	3
 Aq	3
 Af	3
-Gjirokastër	3
+Gjirokast?�r	3
 fore-end	3
 horse-and-buggy	3
 Remagen	3
@@ -98351,7 +98348,7 @@ tree-dotted	3
 fazed	3
 colophon	3
 doggoned	3
-scène	3
+sc?�ne	3
 tarns	3
 exults	3
 rainbow's	3
@@ -98894,7 +98891,7 @@ biomechanical	3
 Nostromo	3
 spaceplane	3
 Inupiat	3
-rôle	3
+r??le	3
 horehound	3
 lough	3
 naiad	3
@@ -101313,7 +101310,7 @@ Assouan	3
 yatagan	3
 Responsa	3
 hyponome	3
-entrée	3
+entr??e	3
 McGuigan	3
 Redford's	3
 outgun	3
@@ -101858,7 +101855,7 @@ Jericho's	3
 jenny	3
 Shor	3
 jackdaw	3
-coördinate	3
+co??rdinate	3
 scudded	3
 bestrides	3
 judicatory	3
@@ -102163,7 +102160,7 @@ coalmine	3
 chancy	3
 Irbil	3
 mutineer	3
-Élysée	3
+?�lys??e	3
 unsporting	3
 Kyne	3
 mediatized	3
@@ -102235,7 +102232,7 @@ postea	3
 serges	3
 dure	3
 grimiest	3
-arête	3
+ar?�te	3
 Filmer's	3
 lampshades	3
 sware	3
@@ -102469,7 +102466,7 @@ pir	3
 pow	3
 pos	3
 Brocket's	3
-più	3
+pi??	3
 Samoyedic	3
 ionizes	3
 disingenuousness	3
@@ -103091,7 +103088,7 @@ Frisii	3
 Corin	3
 Procrustean	3
 swosh	3
-madroño	3
+madro??o	3
 DiMaggio's	3
 Microtus	3
 recanting	3
@@ -104598,7 +104595,7 @@ Mahadeva	3
 aerodynamically	3
 vertebrata	3
 reconfiguring	3
-shōnen	3
+sh?�nen	3
 amphigastria	3
 lupin	3
 effort's	3
@@ -105095,7 +105092,7 @@ promulgates	3
 folivores	3
 paper-cutting	3
 overground	3
-naïveté	3
+na?�vet??	3
 Mohican	3
 consecrations	3
 anecdotic	3
@@ -105304,7 +105301,7 @@ Gruiformes	3
 gentil	3
 unchaperoned	3
 fahrenheit	3
-rosé	3
+ros??	3
 rabble-rouser	3
 Ticknor's	3
 Timotheus	3
@@ -106267,7 +106264,7 @@ antitypical	3
 stibium	3
 phototrophic	3
 radicalizing	3
-Brønsted-Lowry	3
+Br??nsted-Lowry	3
 Salinan	3
 subprefect	3
 overproduced	3
@@ -106594,7 +106591,7 @@ subornation	3
 black-hole	3
 deadhead	3
 Hemings's	3
-Ásatrú	3
+?�satr??	3
 commendably	3
 deafeningly	3
 conglomerated	3
@@ -106989,7 +106986,7 @@ nonalcoholic	3
 palanquins	3
 deflagration	3
 Aramis	3
-Vänern	3
+V?�nern	3
 anti-Serb	3
 sniggering	3
 archesporial	3
@@ -107101,7 +107098,7 @@ transmutations	3
 Singh's	3
 afterburners	3
 drolly	3
-Refusés	3
+Refus??s	3
 neurophysiology	3
 canary-bird	3
 cryptographically	3
@@ -107261,7 +107258,6 @@ computerdom	3
 autarky	3
 Orthrus	3
 deepness	3
-#NAME?	3
 buoyage	3
 aorist	3
 Bedlington	3
@@ -108149,7 +108145,7 @@ Carnac	3
 perturb	3
 unexcused	3
 Ronan's	3
-Gruyère	3
+Gruy?�re	3
 Fostoria	3
 Chalcolithic	3
 quandaries	3
@@ -108165,7 +108161,7 @@ vegetatively	3
 well-furnished	3
 Filices	3
 claire	3
-crêpe	3
+cr?�pe	3
 credentialing	3
 mexican	3
 geodesy	3
@@ -108617,7 +108613,7 @@ orating	3
 Huascaran	3
 Styron	3
 deplane	3
-crème	3
+cr?�me	3
 festoon	3
 fascia	3
 unsoftened	3
@@ -108671,7 +108667,7 @@ step-down	3
 Harpocrates	3
 orthographically	3
 creaming	3
-Bière	3
+Bi?�re	3
 forewarns	3
 coquetting	3
 puisne	3
@@ -108914,7 +108910,7 @@ comradely	2
 Hond	2
 Gallicised	2
 Ramadhan	2
-Cú	2
+C??	2
 symphysiotomy	2
 Ic	2
 noninflationary	2
@@ -108933,7 +108929,7 @@ geologist's	2
 Hova	2
 justice-loving	2
 swoosh	2
-Ré	2
+R??	2
 underbid	2
 unsellable	2
 abrading	2
@@ -108941,7 +108937,7 @@ Mimir	2
 bindweed	2
 Rheinhessen	2
 escopeta	2
-Lú	2
+L??	2
 seamounts	2
 Gotlanders	2
 Rx	2
@@ -109501,7 +109497,7 @@ rainbowed	2
 barographs	2
 four-lobed	2
 best-trained	2
-matinée	2
+matin??e	2
 frizzing	2
 digitalized	2
 dark-leaved	2
@@ -109950,7 +109946,7 @@ Angst	2
 self-dissatisfaction	2
 congas	2
 Americanizing	2
-Zuñi	2
+Zu??i	2
 bipartite	2
 agrichemicals	2
 copout	2
@@ -110199,7 +110195,7 @@ IADB	2
 unlined	2
 decimetre	2
 shamanist	2
-coördination	2
+co??rdination	2
 forbearer	2
 chiggers	2
 Stutzman	2
@@ -110272,7 +110268,7 @@ weatherproof	2
 cubeb	2
 Crowell's	2
 cubby	2
-maté	2
+mat??	2
 primos	2
 Sevillian	2
 Berlinguer	2
@@ -110563,7 +110559,7 @@ Madill	2
 nippy	2
 Maugham's	2
 commentated	2
-célèbre	2
+c??l?�bre	2
 Couperin's	2
 Celadon	2
 asynchronously	2
@@ -110598,7 +110594,7 @@ self-exertion	2
 Oujda	2
 cyte	2
 bunghole	2
-Völuspá	2
+V??lusp?�	2
 incentivized	2
 demystifying	2
 hyperventilation	2
@@ -110700,7 +110696,7 @@ moil	2
 bargees	2
 entremes	2
 startings	2
-Popayán	2
+Popay?�n	2
 Havasupai	2
 moha	2
 sheafs	2
@@ -110906,7 +110902,7 @@ Mirabeau's	2
 Fernando's	2
 Melianthus	2
 brusquerie	2
-pièce	2
+pi?�ce	2
 appealable	2
 incapability	2
 paganish	2
@@ -111183,7 +111179,7 @@ wans	2
 Cyrilla	2
 Hakenkreuz	2
 Cyrille	2
-Guillain-Barré	2
+Guillain-Barr??	2
 bravos	2
 wats	2
 bola	2
@@ -111273,7 +111269,7 @@ microbuses	2
 Amund	2
 illuminators	2
 colleen	2
-Mohorovičić	2
+Mohorovi?�i?�	2
 gouramis	2
 deles	2
 Adina	2
@@ -111347,7 +111343,7 @@ brazed	2
 Ringo's	2
 Batatas	2
 studiousness	2
-fainéant	2
+fain??ant	2
 respiring	2
 Brutalist	2
 Sissel	2
@@ -112982,7 +112978,7 @@ birdseed	2
 self-originated	2
 brandied	2
 Geronimo's	2
-Hämeenlinna	2
+H?�meenlinna	2
 multiline	2
 AstroTurf	2
 tilt-hammer	2
@@ -113133,7 +113129,7 @@ Katherina	2
 wyrd	2
 two-floor	2
 territorials	2
-éclat	2
+??clat	2
 Merostomata	2
 Aegle	2
 catspaws	2
@@ -113564,7 +113560,7 @@ neutralizer	2
 scrupulousness	2
 Finn's	2
 self-trained	2
-béarnaise	2
+b??arnaise	2
 DAD	2
 interlined	2
 DB2	2
@@ -113756,7 +113752,7 @@ ELM	2
 Gwendoline	2
 disconnectedness	2
 patters	2
-méthode	2
+m??thode	2
 handbreadth	2
 Terminalia	2
 inspiringly	2
@@ -113896,7 +113892,7 @@ recitalist	2
 PLM	2
 fixates	2
 abaxial	2
-Cefalù	2
+Cefal??	2
 forbearances	2
 Austrasians	2
 Padgett's	2
@@ -114817,7 +114813,7 @@ firy	2
 Paxton's	2
 Gradgrind	2
 joeys	2
-filé	2
+fil??	2
 firn	2
 Schneiderman	2
 flat-nose	2
@@ -115056,7 +115052,7 @@ wiccan	2
 over-nice	2
 Nazario	2
 metaphysically	2
-animé	2
+anim??	2
 kronen	2
 quaestorship	2
 postcodes	2
@@ -116223,7 +116219,7 @@ Kuba	2
 hyacinthine	2
 withouten	2
 Oneidas	2
-chargé	2
+charg??	2
 matrifocal	2
 Vibram	2
 Calera's	2
@@ -116324,7 +116320,7 @@ mickle	2
 Hideyoshi's	2
 Khama's	2
 choriamb	2
-Linköping	2
+Link??ping	2
 snubs	2
 featherbeds	2
 pdl	2
@@ -116792,7 +116788,7 @@ well-flavoured	2
 primordially	2
 Pantelleria	2
 Esperanza's	2
-épée	2
+??p??e	2
 schlepping	2
 Barolo	2
 rebelliousness	2
@@ -117155,7 +117151,7 @@ reappraisals	2
 debiting	2
 chantey	2
 knacks	2
-resumé	2
+resum??	2
 fuzzballs	2
 Wakamba	2
 cyclometer	2
@@ -118203,7 +118199,7 @@ unrecompensed	2
 island-studded	2
 Sweatt	2
 Draguignan	2
-Boötes	2
+Bo??tes	2
 Tammi's	2
 Schadenfreude	2
 undercount	2
@@ -118543,7 +118539,7 @@ terma	2
 Sandersville	2
 Llew	2
 Ridgeland	2
-Eötvös	2
+E??tv??s	2
 summit's	2
 Danegelt	2
 gobblers	2
@@ -118589,7 +118585,7 @@ Meany	2
 supererogation	2
 Selkirk's	2
 totalitarians	2
-crèche	2
+cr?�che	2
 recusals	2
 terrorise	2
 Magus's	2
@@ -118894,7 +118890,7 @@ stammerer	2
 improvision	2
 quadric	2
 optants	2
-séance	2
+s??ance	2
 Hibbertia	2
 Almain	2
 suffocative	2
@@ -119442,7 +119438,7 @@ misapprehending	2
 best-liked	2
 Mayanist	2
 Joses	2
-sautéing	2
+saut??ing	2
 antiperspirants	2
 bedad	2
 Kurus	2
@@ -119886,7 +119882,7 @@ Molina's	2
 Hagan's	2
 Ferrer's	2
 Veps	2
-lagerstätte	2
+lagerst?�tte	2
 oliver	2
 Terza	2
 nitpickers	2
@@ -120854,7 +120850,7 @@ iteroparity	2
 nursemaids	2
 Hercynian	2
 Kushitic	2
-roué	2
+rou??	2
 Donatism	2
 Prue's	2
 estranging	2
@@ -121276,7 +121272,7 @@ god-man	2
 pontianak	2
 swine's	2
 strep	2
-Cúchulainn	2
+C??chulainn	2
 epigastric	2
 Enver's	2
 Disa	2
@@ -122738,14 +122734,14 @@ Yaos	2
 masturbatory	2
 tailfin	2
 achenes	2
-Fräulein	2
+Fr?�ulein	2
 devilled	2
 traitor's	2
 wrongheaded	2
 divarications	2
 bat-eared	2
 Ciscaucasia	2
-sauté	2
+saut??	2
 Lampert	2
 Ellyn	2
 Sherburn	2
@@ -123234,7 +123230,7 @@ shakeups	2
 Araxes	2
 short-barreled	2
 in-built	2
-trouvère	2
+trouv?�re	2
 Gepidae	2
 sponger	2
 Zippel	2
@@ -124692,7 +124688,7 @@ steroidal	2
 Marita	2
 pungy	2
 Muriel's	2
-naiveté	2
+naivet??	2
 Boehmite	2
 Corinthianesque	2
 homopolymer	2
@@ -125234,7 +125230,7 @@ white-fronted	2
 mintmarks	2
 Clichy	2
 fourth-rate	2
-sautéed	2
+saut??ed	2
 stretchable	2
 Schroder	2
 Falkland's	2
@@ -126208,7 +126204,7 @@ light-spirited	2
 wights	2
 Nordica	2
 trimorphic	2
-attaché	2
+attach??	2
 scandalizes	2
 soteriology	2
 intraepithelial	2
@@ -126358,7 +126354,7 @@ nocturns	2
 encomiastic	2
 unzip	2
 Pommel	2
-résumé	2
+r??sum??	2
 tablier	2
 pimpled	2
 apterous	2
@@ -126557,7 +126553,7 @@ way-bill	1
 syncopations	1
 Adelia	1
 ophthalmoplegia	1
-protégée	1
+prot??g??e	1
 quayage	1
 Senn's	1
 vari	1
@@ -126754,7 +126750,7 @@ Eo	1
 Pellaea	1
 basketmaking	1
 canonizing	1
-Bó	1
+B??	1
 comptrol	1
 Lippizaner	1
 implicative	1
@@ -126799,7 +126795,7 @@ fire-burnt	1
 colonelship	1
 propitiates	1
 infectiveness	1
-Dé	1
+D??	1
 Milon	1
 J3	1
 IU	1
@@ -126903,7 +126899,7 @@ biosynthesize	1
 unbiological	1
 ululating	1
 Bulawayo's	1
-Vé	1
+V??	1
 Zl	1
 Libava	1
 heeler	1
@@ -126981,7 +126977,7 @@ uncontroverted	1
 Ophiurida	1
 jt	1
 tag's	1
-fé	1
+f??	1
 jm	1
 Newfies	1
 Libbie	1
@@ -127039,7 +127035,7 @@ readding	1
 Minne	1
 rw	1
 Gallicisms	1
-né	1
+n??	1
 rg	1
 bastardized	1
 unipersonal	1
@@ -127283,7 +127279,7 @@ weirds	1
 twinnings	1
 agaze	1
 procreations	1
-Románico	1
+Rom?�nico	1
 madrassahs	1
 Soave	1
 cataphract	1
@@ -127596,7 +127592,7 @@ millimole	1
 blathering	1
 uncreation	1
 overstatements	1
-ān	1
+?�n	1
 diversifies	1
 photochromic	1
 undepraved	1
@@ -128524,7 +128520,7 @@ tray's	1
 humanising	1
 Prog	1
 cicero	1
-crudités	1
+crudit??s	1
 scrapheap	1
 Rubina	1
 pyrosis	1
@@ -128611,7 +128607,7 @@ relativism's	1
 subito	1
 varanidae	1
 reprobating	1
-cortège	1
+cort?�ge	1
 inarticulateness	1
 Garamond's	1
 broadleaved	1
@@ -129813,7 +129809,7 @@ dematerialize	1
 stickhandle	1
 grantsmen	1
 RNAS	1
-régisseur	1
+r??gisseur	1
 cockerouse	1
 Gervais's	1
 synesthetic	1
@@ -130276,7 +130272,7 @@ incentivizes	1
 philhellenic	1
 broad-wheeled	1
 fortuneteller	1
-señora	1
+se??ora	1
 multilateralism	1
 Sphinx's	1
 compiler's	1
@@ -130315,7 +130311,7 @@ skedaddled	1
 eventuating	1
 infection's	1
 renouncers	1
-Láadan	1
+L?�adan	1
 Dorette	1
 abscessed	1
 lauryl	1
@@ -131318,7 +131314,7 @@ unflag	1
 gigavolt	1
 wine-cooler	1
 Issy	1
-lumière	1
+lumi?�re	1
 acritarchs	1
 Gunilla	1
 tegmentum	1
@@ -131540,7 +131536,7 @@ farer's	1
 bolection	1
 plum-pie	1
 tenderize	1
-résistance	1
+r??sistance	1
 Manettia	1
 stanze	1
 behaviorally	1
@@ -132351,7 +132347,7 @@ afters	1
 Archangelica	1
 conditioner's	1
 bigs	1
-Niçoise	1
+Ni?�oise	1
 shape-shifting	1
 Episc	1
 chylified	1
@@ -134331,7 +134327,7 @@ rhapsodized	1
 cancelable	1
 stylets	1
 fruiterer's	1
-naïf	1
+na?�f	1
 monomolecular	1
 eigenstate	1
 wrasses	1
@@ -134912,7 +134908,7 @@ vasculitis	1
 AFNOR	1
 polysome	1
 Saussurea	1
-solfège	1
+solf?�ge	1
 seismometer	1
 swanning	1
 Gomulka	1
@@ -135937,7 +135933,7 @@ Herminie	1
 pyrethrins	1
 Brooklynite	1
 asians	1
-Róich	1
+R??ich	1
 Hovland	1
 kyogen	1
 sea-tossed	1
@@ -136133,7 +136129,7 @@ Mariana's	1
 HDA	1
 filliped	1
 canidae	1
-habitué	1
+habitu??	1
 senas	1
 callouses	1
 delegate's	1
@@ -136284,7 +136280,7 @@ stick-in-the-mud	1
 IFS	1
 sateen	1
 IGC	1
-jardinière	1
+jardini?�re	1
 anguis	1
 J's	1
 Coreopsis	1
@@ -136862,7 +136858,7 @@ Warri	1
 jowly	1
 pressrooms	1
 teenie	1
-Cúailnge	1
+C??ailnge	1
 palladian	1
 apocrenic	1
 CIF	1
@@ -137721,7 +137717,7 @@ uncrippled	1
 Papagos	1
 Duranta	1
 QSS	1
-tögrög	1
+t??gr??g	1
 Ronceverte	1
 kvas	1
 kvar	1
@@ -138317,7 +138313,7 @@ MMP	1
 communitive	1
 gold-striped	1
 flautists	1
-fraîche	1
+fra?�che	1
 adulterates	1
 bayberry	1
 MLR	1
@@ -138651,7 +138647,7 @@ chorographical	1
 untheological	1
 outgeneralled	1
 multivariable	1
-pâte	1
+p?�te	1
 marooning	1
 perpetuator	1
 jaeger	1
@@ -138677,7 +138673,7 @@ surveillant	1
 overgeneralized	1
 late-found	1
 studdingsails	1
-pâté	1
+p?�t??	1
 siderophile	1
 echinoids	1
 bedpan	1
@@ -138800,7 +138796,7 @@ WPS	1
 gerne	1
 forint	1
 trans-Rhenish	1
-Tepelenë	1
+Tepelen?�	1
 smallsword	1
 skeets	1
 Khwarizmi	1
@@ -139544,7 +139540,7 @@ Chaffee's	1
 plannings	1
 inukshuks	1
 radiograph	1
-matériel	1
+mat??riel	1
 unfastening	1
 scotland	1
 Frye's	1
@@ -140434,7 +140430,7 @@ relearned	1
 Fionna	1
 pannikins	1
 Chickasaws	1
-Behçet's	1
+Beh?�et's	1
 contraindications	1
 Roseanne's	1
 handbrake	1
@@ -140972,7 +140968,7 @@ Lao-tzu	1
 Kevil	1
 gold-bright	1
 Sunbury-on-Thames	1
-pâtisserie	1
+p?�tisserie	1
 galangal	1
 Saarlanders	1
 Cheilanthes	1
@@ -140981,7 +140977,7 @@ platinotype	1
 Dylana	1
 Echium	1
 Welchman	1
-corvée	1
+corv??e	1
 anglicise	1
 turboshaft	1
 antichretic	1
@@ -141444,7 +141440,7 @@ undeterminate	1
 incidently	1
 impurer	1
 mythologic	1
-Kohtla-Järve	1
+Kohtla-J?�rve	1
 rhythm-and-blues	1
 hop-o'-my-thumb	1
 cross-eyes	1
@@ -141672,7 +141668,7 @@ waterweed	1
 McFarlan	1
 Dactyls	1
 bluestones	1
-bergère	1
+berg?�re	1
 chalot	1
 Halevi's	1
 Oldsmobile's	1
@@ -142347,7 +142343,7 @@ defilers	1
 oppositely	1
 placent	1
 Halcyone	1
-raï	1
+ra?�	1
 Auzout	1
 aggrievedly	1
 Baldwins	1
@@ -142996,7 +142992,7 @@ presbyterians	1
 chemosynthetic	1
 Lohse	1
 despiteously	1
-chèvre	1
+ch?�vre	1
 classist	1
 Orangefield	1
 Petrillo	1
@@ -143773,7 +143769,7 @@ Newel	1
 myology	1
 containerize	1
 Marsteller's	1
-ménage	1
+m??nage	1
 Pirene	1
 megaloblastic	1
 Martita	1
@@ -143999,7 +143995,7 @@ pea-sized	1
 wyvern	1
 clinicist	1
 kingless	1
-háček	1
+h?�?�ek	1
 yodels	1
 hydrocyanic	1
 capas	1
@@ -144081,7 +144077,7 @@ eaux	1
 double-feature	1
 qasidas	1
 protectant	1
-touché	1
+touch??	1
 shirt's	1
 quinquagesima	1
 rethe	1
@@ -144121,7 +144117,7 @@ tritely	1
 prolonge	1
 diphenhydramine	1
 Maurita	1
-derrière	1
+derri?�re	1
 holographs	1
 autoeroticism	1
 chewets	1
@@ -144693,7 +144689,7 @@ appreciativeness	1
 tsi	1
 effs	1
 horse-hoe	1
-pointillé	1
+pointill??	1
 immanency	1
 borstal	1
 Calamintha	1
@@ -145665,7 +145661,7 @@ apatosaur	1
 Peregrine's	1
 pale-hued	1
 Klemme	1
-réchauffé	1
+r??chauff??	1
 diploids	1
 reflooded	1
 skateboarded	1
@@ -145893,7 +145889,7 @@ digitals	1
 dateable	1
 mateys	1
 maunder	1
-Garífuna	1
+Gar?�funa	1
 ricercares	1
 epitaphic	1
 yttria	1
@@ -145919,7 +145915,7 @@ privity	1
 maestro's	1
 dracula	1
 ragtime's	1
-takahē	1
+takah?�	1
 apocryphally	1
 parures	1
 lacrymose	1
@@ -146230,7 +146226,7 @@ cheiromancy	1
 enjambement	1
 anti-christian	1
 presidentes	1
-piñata	1
+pi??ata	1
 Cranko	1
 disfunctional	1
 zestful	1
@@ -146635,7 +146631,7 @@ backscatter	1
 caravansery	1
 foliaged	1
 Paduans	1
-repoussé	1
+repouss??	1
 duckling's	1
 gumptious	1
 care-taker	1
@@ -147114,7 +147110,7 @@ Century's	1
 linnaea	1
 Autocode	1
 midday's	1
-Condé's	1
+Cond??'s	1
 cyano	1
 Groot's	1
 nondeterminism	1
@@ -147321,7 +147317,7 @@ Alma's	1
 serviceberry	1
 flophouse	1
 menstruant	1
-übermensch	1
+??bermensch	1
 claw-footed	1
 ingratiatingly	1
 anti-aliasing	1
@@ -147437,7 +147433,7 @@ DECwindows	1
 Jaycees	1
 Siluridae	1
 Statehouse's	1
-pied-à-terre	1
+pied-?�-terre	1
 necessitation	1
 self-renouncing	1
 siglos	1
@@ -147607,7 +147603,7 @@ lariats	1
 chagoma	1
 barricading	1
 Carrick's	1
-Skírnismál	1
+Sk?�rnism?�l	1
 braveness	1
 restiform	1
 intellectualizes	1
@@ -147865,7 +147861,7 @@ imperii	1
 stag-beetle	1
 imperia	1
 Klaxon	1
-Sémillon	1
+S??millon	1
 Oland	1
 uncork	1
 uncontrovertible	1
@@ -148450,7 +148446,7 @@ neolocal	1
 Oberon's	1
 Recamier	1
 taxies	1
-névé	1
+n??v??	1
 collectorship	1
 Scyllaridae	1
 Azelfafage	1
@@ -149363,7 +149359,7 @@ graybeards	1
 hydrophobicity	1
 prowest	1
 shopwoman	1
-appliqué	1
+appliqu??	1
 reticulate	1
 peppier	1
 Klehm	1
@@ -150033,7 +150029,7 @@ Bettencourt	1
 testudinous	1
 crutched	1
 extentions	1
-Floréal	1
+Flor??al	1
 Sinitic	1
 eucaryote	1
 waxworks	1
@@ -150881,7 +150877,7 @@ Neille	1
 Mopar	1
 ebonite	1
 rhamphotheca	1
-Mjölner	1
+Mj??lner	1
 Tupinamba	1
 graphitic	1
 Aberdonians	1
@@ -150895,7 +150891,7 @@ shakespeare	1
 nyckelharpa	1
 Eltanin	1
 diols	1
-Mjölnir	1
+Mj??lnir	1
 neuropathies	1
 Talala	1
 Vascons	1
@@ -151231,7 +151227,7 @@ unshafted	1
 weesh	1
 Sporozoa	1
 conservatoire's	1
-précis	1
+pr??cis	1
 foresighted	1
 ever-changeful	1
 Allie's	1
@@ -151373,7 +151369,7 @@ interworking	1
 Digor	1
 Adoxaceae	1
 Letchworth's	1
-raisonné	1
+raisonn??	1
 aventail	1
 NORAD's	1
 humungous	1
@@ -151763,7 +151759,7 @@ Trevelyan's	1
 postriders	1
 unbodied	1
 Leinsdorf's	1
-naïvete	1
+na?�vete	1
 Cesar's	1
 Flatonia	1
 Porrima	1
@@ -152152,7 +152148,7 @@ Nutley	1
 dictyosome	1
 monothelete	1
 homogenizes	1
-króna	1
+kr??na	1
 nonresponders	1
 cigarette's	1
 Thorburn	1
@@ -152201,7 +152197,7 @@ Branchiostoma	1
 manness	1
 interleaving	1
 unjoyous	1
-Sarandë	1
+Sarand?�	1
 siennas	1
 preposterousness	1
 antimonates	1
@@ -152554,7 +152550,7 @@ Hera's	1
 antibody's	1
 Fabianism	1
 Purcellville	1
-Désirée	1
+D??sir??e	1
 coal-measure	1
 peribolus	1
 irides	1
@@ -152757,7 +152753,7 @@ Hmongs	1
 whip-tailed	1
 ponytail	1
 well-won	1
-quinceañera	1
+quincea??era	1
 slobbers	1
 Hephaesteum	1
 forager	1
@@ -152920,7 +152916,7 @@ Keffer	1
 Timpson	1
 austronesian	1
 CBBS	1
-époque	1
+??poque	1
 spoiler's	1
 Purchas's	1
 swordmen	1
@@ -153104,7 +153100,7 @@ cartographic	1
 Rattigan	1
 chewa	1
 Tarazed	1
-völva	1
+v??lva	1
 Amphissa	1
 dove's	1
 interdependently	1
@@ -153635,7 +153631,7 @@ Nabataea	1
 roysterer	1
 skua	1
 Eastenders	1
-trouvé	1
+trouv??	1
 Meg's	1
 sparrow-hawk	1
 rhetorician's	1
@@ -153739,7 +153735,7 @@ half-veiled	1
 packet-switched	1
 self-consistently	1
 hydrogenate	1
-soirée	1
+soir??e	1
 picnic's	1
 Doss	1
 Coniston's	1
@@ -153764,7 +153760,7 @@ full-cheeked	1
 Kalyan	1
 Coppinger	1
 zettabytes	1
-gâteaux	1
+g?�teaux	1
 hiccuping	1
 graftings	1
 jarl	1
@@ -154334,7 +154330,7 @@ trailer's	1
 equipment's	1
 electroencephalography	1
 tophi	1
-limaçon	1
+lima?�on	1
 oratorically	1
 Algy	1
 Samaritanism	1
@@ -154702,7 +154698,7 @@ sickish	1
 thieve	1
 vespertinal	1
 silkscreened	1
-Hávamál	1
+H?�vam?�l	1
 steatopygous	1
 VLAN	1
 begums	1
@@ -155100,7 +155096,7 @@ disbeliefs	1
 drunkeness	1
 iritis	1
 Marchal	1
-consommé	1
+consomm??	1
 droog	1
 Gossaert	1
 steelmakers	1
@@ -155289,7 +155285,7 @@ humidification	1
 duckie	1
 psychobiologist	1
 immunofluorescence	1
-éclair	1
+??clair	1
 octohedral	1
 emalangeni	1
 selt	1
@@ -156270,7 +156266,7 @@ Montu's	1
 trional	1
 sweet-souled	1
 Labridae	1
-abbé	1
+abb??	1
 stagy	1
 northeaster	1
 tallymen	1
@@ -156394,7 +156390,7 @@ grists	1
 cockspur	1
 satanism	1
 amities	1
-grâce	1
+gr?�ce	1
 Pussy's	1
 Houssay	1
 swansdown	1
@@ -156473,7 +156469,7 @@ wintel	1
 gnus	1
 infinity's	1
 carafes	1
-Luleå	1
+Lule?�	1
 ARIS	1
 Flaxman's	1
 profamily	1
@@ -156539,7 +156535,7 @@ gaoler's	1
 dead-letter	1
 Funston	1
 Brookeland	1
-coöperate	1
+co??perate	1
 Pooler	1
 Corallian	1
 testamentum	1
@@ -157621,7 +157617,7 @@ garon	1
 Chippewa's	1
 alleviator	1
 Baggies	1
-pattée	1
+patt??e	1
 Nole	1
 chubby-faced	1
 give-up	1
@@ -157683,7 +157679,7 @@ cyclo-cross	1
 publishings	1
 Thermoses	1
 fissured	1
-gâteau	1
+g?�teau	1
 jingo	1
 gradatim	1
 despoliation	1
@@ -157955,7 +157951,7 @@ domicil	1
 skyjacking	1
 resettlements	1
 dromos	1
-Táin	1
+T?�in	1
 bowman	1
 overbusies	1
 Axum's	1
@@ -157985,7 +157981,7 @@ mischiefed	1
 layettes	1
 storm-wracked	1
 cognatus	1
-moiré	1
+moir??	1
 bombastical	1
 jellyroll	1
 floozies	1
@@ -158091,7 +158087,7 @@ thudded	1
 idealisation	1
 malheur	1
 Aiden's	1
-écu	1
+??cu	1
 ministership	1
 bestead	1
 signoria	1
@@ -158249,7 +158245,7 @@ wrestling's	1
 Esra	1
 wakeless	1
 FUSE	1
-Esmé	1
+Esm??	1
 Mellivorinae	1
 polarities	1
 staticky	1
@@ -159415,7 +159411,7 @@ medially	1
 thin-legged	1
 mooli	1
 zigging	1
-bête	1
+b?�te	1
 mislabelled	1
 Middlefield	1
 brevity's	1
@@ -159500,7 +159496,7 @@ suavest	1
 isogamous	1
 Germanisms	1
 endergonic	1
-Bouaké	1
+Bouak??	1
 rehandles	1
 Clifton's	1
 aslumber	1
@@ -159734,7 +159730,7 @@ Waal's	1
 segregates	1
 klystron	1
 ycond	1
-Mössbauer	1
+M??ssbauer	1
 pod-shaped	1
 Kalang	1
 gabby	1
@@ -160276,7 +160272,7 @@ dinitrophenol	1
 observator	1
 intine	1
 Daron's	1
-déjà	1
+d??j?�	1
 underpropped	1
 universalis	1
 carnivalesque	1
@@ -160706,7 +160702,7 @@ Buffet's	1
 inspective	1
 reefers	1
 Brinson	1
-vérité	1
+v??rit??	1
 diavolo	1
 Pahala	1
 idolises	1
@@ -160750,7 +160746,7 @@ lateralized	1
 Giraudoux's	1
 Silurus	1
 many-voiced	1
-Hassānīya	1
+Hass?�n?�ya	1
 sappho	1
 spironolactone	1
 puku	1
@@ -160971,7 +160967,7 @@ half-sunken	1
 gravlax	1
 castor-bean	1
 bridehood	1
-öre	1
+??re	1
 ground-rent	1
 Dasara	1
 emblazon	1
@@ -161620,7 +161616,7 @@ stoniness	1
 Trachiniae	1
 Trappists	1
 daimonion	1
-apéritif	1
+ap??ritif	1
 ironworking	1
 Chayefsky	1
 denticle	1
@@ -161680,7 +161676,7 @@ factotums	1
 white-tail	1
 keypunches	1
 transferences	1
-Érenn	1
+?�renn	1
 rescored	1
 Pomfrey	1
 duffs	1
@@ -161844,7 +161840,7 @@ foliar	1
 Westworth	1
 meetest	1
 Whitesboro	1
-jalapeño	1
+jalape??o	1
 noncustodial	1
 Steinhatchee	1
 Higginson's	1
@@ -162131,7 +162127,7 @@ succedanea	1
 knowability	1
 Cowichan	1
 hied	1
-étude	1
+??tude	1
 amphitrite	1
 hies	1
 dozings	1
@@ -164496,7 +164492,7 @@ Botrytis	1
 superficials	1
 Kihei	1
 Gretel's	1
-purée	1
+pur??e	1
 Higginbotham's	1
 Krongold	1
 idealogue	1
@@ -164638,7 +164634,7 @@ berber	1
 honey-buzzard	1
 disenchantments	1
 handbrakes	1
-brûlée	1
+br??l??e	1
 detent	1
 biotechnological	1
 widdled	1
@@ -164693,7 +164689,7 @@ Paynter	1
 jewel-headed	1
 Quent	1
 guna	1
-brassière	1
+brassi?�re	1
 moonshots	1
 boyhood's	1
 Halimeda	1
